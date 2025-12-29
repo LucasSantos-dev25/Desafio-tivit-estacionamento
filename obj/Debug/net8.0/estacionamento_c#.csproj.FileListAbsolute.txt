@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\estacionamento_c#\bin\Debug\net8.0\estacionamento_c#.exe
+C:\Users\Lucas\Desktop\estacionamento_c#\bin\Debug\net8.0\estacionamento_c#.deps.json
+C:\Users\Lucas\Desktop\estacionamento_c#\bin\Debug\net8.0\estacionamento_c#.runtimeconfig.json
+C:\Users\Lucas\Desktop\estacionamento_c#\bin\Debug\net8.0\estacionamento_c#.dll
+C:\Users\Lucas\Desktop\estacionamento_c#\bin\Debug\net8.0\estacionamento_c#.pdb
+C:\Users\Lucas\Desktop\estacionamento_c#\obj\Debug\net8.0\estacionamento_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\estacionamento_c#\obj\Debug\net8.0\estacionamento_c#.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\estacionamento_c#\obj\Debug\net8.0\estacionamento_c#.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\estacionamento_c#\obj\Debug\net8.0\estacionamento_c#.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\estacionamento_c#\obj\Debug\net8.0\estacionamento_c#.dll
+C:\Users\Lucas\Desktop\estacionamento_c#\obj\Debug\net8.0\refint\estacionamento_c#.dll
+C:\Users\Lucas\Desktop\estacionamento_c#\obj\Debug\net8.0\estacionamento_c#.pdb
+C:\Users\Lucas\Desktop\estacionamento_c#\obj\Debug\net8.0\estacionamento_c#.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\estacionamento_c#\obj\Debug\net8.0\ref\estacionamento_c#.dll
